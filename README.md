@@ -1,5 +1,3 @@
-# game-trading-website
-game-trading-website
 # Game-trading-website
 
 # 导语
