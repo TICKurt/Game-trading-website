@@ -1,7 +1,5 @@
 # Game-trading-website
 
-# 导语
-
 #### 介绍
 毕设：基于Springboot的在线游戏道具商城的设计与实现
 
